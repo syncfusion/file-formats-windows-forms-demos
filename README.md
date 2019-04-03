@@ -6,7 +6,7 @@ This section guides to use to Syncfusion file format WinForms product samples in
 
 * [Requirements to run the demo](#requirements-to-run-the-demo)
 * [Documentation](#documentation)
-* [License](#license)
+* [License](#license) 
 * [Using the samples](#using-the-samples)
 * [Controls Catalog](#controls-catalog)
 * [Support and Feedback](#support-and-feedback)
