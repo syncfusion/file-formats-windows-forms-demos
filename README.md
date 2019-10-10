@@ -74,7 +74,9 @@ The easiest way to use these samples without using Git is to download the zip fi
   <td>
     <a href="XlsIO.Windows/Samples/Export">Excel Converters</a>
   </td>
-  <td/>
+  <td>
+  <a href="Spreadsheet.Windows/Samples">Spreadsheet</a>
+  </td>
   </tr>
   <tr>
     <td colspan="3" rowspan="1">
@@ -88,9 +90,7 @@ The easiest way to use these samples without using Git is to download the zip fi
   <td>
     <a href="DocIO.Windows/Samples/Import And Export">Word converters</a>
   </td>
-  <td>
-    <a href="">RichTextBox</a>
-  </td>
+<td/>
   </tr>
   <tr>
     <td colspan="3" rowspan="1">
