@@ -1,4 +1,4 @@
-# Syncfusion File Format WinForms product samples 
+# Syncfusion File Format WinForms product samples
 
 This repository contains the demos of Syncfusion file format WinForms products. Syncfusion file format products contains .NET libraries to create, read, edit and convert [PDF](https://www.syncfusion.com/pdf-framework/net?utm_source=github&utm_medium=listing), [Excel](https://www.syncfusion.com/excel-framework/net?utm_source=github&utm_medium=listing), [Word](https://www.syncfusion.com/word-framework/net?utm_source=github&utm_medium=listing) and [PowerPoint](https://www.syncfusion.com/pdf-framework/net?utm_source=github&utm_medium=listing) files. Also, it contains UI controls such as [PDF Viewer](https://www.syncfusion.com/winforms-ui-controls/pdf-viewer?utm_source=github&utm_medium=listing), and [Spreadsheet](https://www.syncfusion.com/winforms-ui-controls/spreadsheet?utm_source=github&utm_medium=listing) to work with PDF, and Excel files interactively. This is the best place to check our libraries/controls to get more insight about the usage of APIs.
 
@@ -114,4 +114,4 @@ The easiest way to use these samples without using Git is to download the zip fi
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
 
-<p>Copyright © 2001-2020 Syncfusion, Inc. Updated on 2020-11-06 at precisely 10:37:10 EST.</p>
+<p>Copyright © 2001-2020 Syncfusion, Inc. Updated on 2020-12-23 at precisely 15:30:56 EST.</p>
