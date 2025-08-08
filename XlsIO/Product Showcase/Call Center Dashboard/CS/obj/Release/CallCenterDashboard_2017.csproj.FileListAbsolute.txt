@@ -1,4 +1,0 @@
-C:\Samples_30.1.37\Windows\xlsio\Product Showcase\Call Center Dashboard\CS\obj\Release\CallCenterDashboard_2017.csprojAssemblyReference.cache
-C:\Samples_30.1.37\Windows\xlsio\Product Showcase\Call Center Dashboard\CS\obj\Release\EssentialXlsIOSamples.CallCenterDashboard.resources
-C:\Samples_30.1.37\Windows\xlsio\Product Showcase\Call Center Dashboard\CS\obj\Release\CallCenterDashboard_2017.csproj.GenerateResource.cache
-C:\Samples_30.1.37\Windows\xlsio\Product Showcase\Call Center Dashboard\CS\obj\Release\CallCenterDashboard_2017.csproj.CoreCompileInputs.cache
